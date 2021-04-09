@@ -12,3 +12,4 @@
 - https://id.piliapp.com/emoji/in-blog/ emoji
 - https://www.copyscape.com/ cek plagiasi sumber
 - https://www.siteliner.com/ cek scan web duplicates
+- http://www.unit-conversion.info/texttools/convert-text-to-binary/ binary
