@@ -14,5 +14,5 @@
 - https://www.siteliner.com/ cek scan web duplicates
 - http://www.unit-conversion.info/texttools/convert-text-to-binary/ binary
 - enkripsi javascript
- - minify https://javascript-minifier.com/
- - obfuscator https://obfuscator.io/
+  - minify https://javascript-minifier.com/
+  - obfuscator https://obfuscator.io/
