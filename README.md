@@ -17,3 +17,4 @@
   - minify https://javascript-minifier.com/
   - obfuscator https://obfuscator.io/
 - merubah link blog tanpa tanggal bulan https://www.kelasmat.com/2019/08/cara-buat-permalink-atau-url-pada.html
+- password page blog https://www.jagoankode.com/cara-membuat-password-di-halaman-statis-blogger/#Membuat_Lebih_Dari_Satu_Password_Laman_Statis_Blogger
