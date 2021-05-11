@@ -16,3 +16,4 @@
 - enkripsi javascript
   - minify https://javascript-minifier.com/
   - obfuscator https://obfuscator.io/
+- merubah link blog tanpa tanggal bulan https://www.kelasmat.com/2019/08/cara-buat-permalink-atau-url-pada.html
