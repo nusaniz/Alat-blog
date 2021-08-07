@@ -13,6 +13,7 @@
 - https://www.copyscape.com/ cek plagiasi sumber
 - https://www.siteliner.com/ cek scan web duplicates
 - http://www.unit-conversion.info/texttools/convert-text-to-binary/ binary
+- https://www.susahtidur.my.id/2020/04/cara-mengubah-warna-seleksi-teks-di_9.html merubah wara highlight
 - enkripsi javascript
   - minify https://javascript-minifier.com/
   - obfuscator https://obfuscator.io/
